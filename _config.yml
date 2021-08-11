@@ -19,6 +19,10 @@ navbar-links:
     - To-do English: "https://beautifuljekyll.com"
     - 비건프렌즈 : "https://veganfriend.imweb.me/"
 
+layout: home
+title: Developer JOY's Portfolio
+subtitle: 웹사이트 제작/개발, 디자인, 마케팅을 합니다.
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
