@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: JOY를 소개합니다.
 ---
+안녕하세요. 개발자 Joy입니다.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- 개인 프로젝트 todo 전화영어 플랫폼을 기획중이며, 현재 아임웹으로 비건프렌즈 회사 소개 사이트를 제작한 경험을 가지고 있습니다.
+- 개발자로서 앞으로 더 많이 공부가 필요하며, 노력할 것 입니다.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+포트폴리오 링크는 메뉴를 참고 해주세요.
